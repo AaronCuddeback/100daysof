@@ -38,7 +38,7 @@ body {
 
 .transparent {
   border: 0;
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .transparent:hover {
@@ -50,7 +50,7 @@ body {
 }
 
 .primary-color {
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .secondary-color {
@@ -123,7 +123,7 @@ body {
 }
 
 .timeline-card .card-bottom a:hover {
-  color: #33dabd;
+  color: #0d5c63;
   -webkit-transition: color 86ms ease-in;
   transition: color 86ms ease-in;
 }
@@ -140,7 +140,7 @@ body {
   padding-right: 0.2rem;
   -webkit-transition: color 86ms ease-in;
   transition: color 86ms ease-in;
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .vertical-line {
@@ -182,7 +182,7 @@ body {
 }
 
 .bottom-menu a {
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .bottom-menu a:hover {
@@ -201,7 +201,7 @@ body {
 }
 
 .metadata .far {
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .post-content {
@@ -213,7 +213,7 @@ body {
 }
 
 .post-content a {
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .post-content a:hover {
@@ -305,7 +305,7 @@ body {
 #calendar .q3,
 #calendar .q4,
 #calendar .q5 {
-  fill: #33dabd;
+  fill: #0d5c63;
 }
 
 #calendar a {
@@ -348,7 +348,7 @@ body {
 }
 
 .sidebar .social {
-  background: #33dabd;
+  background: #0d5c63;
   padding: 1.5rem 3rem 1rem;
 }
 
@@ -367,11 +367,11 @@ body {
 
 .sidebar .menu .far,
 .sidebar .menu .fas {
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .sidebar .menu a:hover {
-  background-color: #33dabd;
+  background-color: #0d5c63;
 }
 
 .sidebar .menu a:hover .far,
@@ -407,7 +407,7 @@ body {
 }
 
 .right-sidebar .tag {
-  background-color: #33dabd;
+  background-color: #0d5c63;
 }
 
 .right-sidebar .posts a {
@@ -415,10 +415,10 @@ body {
 }
 
 .right-sidebar .posts a:hover {
-  color: #33dabd;
+  color: #0d5c63;
 }
 
 .right-sidebar .posts .fas {
-  color: #33dabd;
+  color: #0d5c63;
 }
 /*# sourceMappingURL=style.css.map */
