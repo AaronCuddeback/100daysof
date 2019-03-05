@@ -344,7 +344,7 @@ body {
 
 .sidebar .avatar {
   padding: 2.5rem 3rem;
-  background: #f4b393;
+  background: #56282d;
 }
 
 .sidebar .social {
@@ -355,7 +355,7 @@ body {
 .sidebar .social .fab:hover,
 .sidebar .social .far:hover,
 .sidebar .social .fas:hover {
-  color: #f4b393;
+  color: #56282d;
   -webkit-transition: color 85ms ease-in;
   transition: color 85ms ease-in;
 }
