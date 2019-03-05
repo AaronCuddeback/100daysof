@@ -1,24 +1,24 @@
 @charset "utf-8";
 
 @mixin desktop {
-  @media(min-width: #{$desktop-size}) {
-    @content
+  @media (min-width: #{$desktop-size}) {
+    @content;
   }
-};
+}
 
 $desktop-size: 924px;
 
-$primary-color: #33DABD;
-$secondary-color: #8067B6;
+$primary-color: #33dabd;
+$secondary-color: #f2f5ea;
 
-$dark-background: #3F4A59;
+$dark-background: #3f4a59;
 $lighter-background: #455160;
-$grey: #98A5BB;
-$light: #F3F5F6;
+$grey: #98a5bb;
+$light: #f3f5f6;
 
 body {
   background: $light;
-  color: #3F4A59;
+  color: #3f4a59;
   @include desktop {
     display: grid;
     grid-template-areas: "sidebar content sidebar2" !important;
@@ -28,10 +28,9 @@ body {
 
 .is-round {
   border-radius: 50%;
-
 }
 
-.content{
+.content {
   margin: 0;
   padding-top: 3rem;
   @include desktop {
@@ -42,7 +41,7 @@ body {
   }
 }
 
-.large{
+.large {
   font-size: xx-large;
   font-weight: bold;
 }
@@ -71,7 +70,4 @@ body {
   list-style: none;
 }
 
-@import
-  "_sass/_layout.scss",
-  "_sass/_calendar.scss",
-  "_sass/_sidebar.scss";
+@import "_sass/_layout.scss", "_sass/_calendar.scss", "_sass/_sidebar.scss";
