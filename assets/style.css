@@ -355,7 +355,7 @@ body {
 .sidebar .social .fab:hover,
 .sidebar .social .far:hover,
 .sidebar .social .fas:hover {
-  color: #3f4a59;
+  color: #0d5c63;
   -webkit-transition: color 85ms ease-in;
   transition: color 85ms ease-in;
 }
@@ -371,7 +371,7 @@ body {
 }
 
 .sidebar .menu a:hover {
-  background-color: #3f4a59;
+  background-color: #0d5c63;
 }
 
 .sidebar .menu a:hover .far,
