@@ -42,7 +42,7 @@ body {
 }
 
 .transparent:hover {
-  color: #56282d;
+  color: #3f4a59;
 }
 
 .light-text {
@@ -54,7 +54,7 @@ body {
 }
 
 .secondary-color {
-  color: #56282d;
+  color: #3f4a59;
 }
 
 .no-style {
@@ -130,7 +130,7 @@ body {
 
 .timeline-card .card-bottom a:hover .fas,
 .timeline-card .card-bottom a:hover .far {
-  color: #56282d;
+  color: #3f4a59;
   -webkit-transition: color 86ms ease-in;
   transition: color 86ms ease-in;
 }
@@ -186,7 +186,7 @@ body {
 }
 
 .bottom-menu a:hover {
-  color: #56282d;
+  color: #3f4a59;
 }
 
 .metadata {
@@ -217,7 +217,7 @@ body {
 }
 
 .post-content a:hover {
-  color: #56282d;
+  color: #3f4a59;
   -webkit-transition: color 85ms ease-in;
   transition: color 85ms ease-in;
 }
@@ -355,7 +355,7 @@ body {
 .sidebar .social .fab:hover,
 .sidebar .social .far:hover,
 .sidebar .social .fas:hover {
-  color: #56282d;
+  color: #3f4a59;
   -webkit-transition: color 85ms ease-in;
   transition: color 85ms ease-in;
 }
