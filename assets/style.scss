@@ -46,6 +46,10 @@ body {
   font-weight: bold;
 }
 
+.center-author{
+  text-align: center;
+}
+
 .transparent {
   border: 0;
   color: $primary-color;
@@ -70,4 +74,12 @@ body {
   list-style: none;
 }
 
+<<<<<<< HEAD
 @import "_sass/_layout.scss", "_sass/_calendar.scss", "_sass/_sidebar.scss";
+=======
+@import
+  "_sass/_layout.scss",
+  "_sass/_calendar.scss",
+  "_sass/_sidebar.scss",
+  "_sass/syntax-highlighting";
+>>>>>>> 47b4853cb3b3c4519bedadea04274b4b89d26e37
