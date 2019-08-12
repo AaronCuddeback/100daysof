@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Pragmatic Programmer"
+title: "The Pragmatic Programmer"
 subtitle: Andrew Hunt & David Thomas
-date:   2018-12-30 15:46:28 +0000
+date: 2018-12-30 15:46:28 +0000
 categories: book
-read: 50
+read: 100
 image: https://imagery.pragprog.com/products/59/tpp.jpg?1339433898
 ---
 
