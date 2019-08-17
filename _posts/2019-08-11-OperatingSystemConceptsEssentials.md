@@ -4,7 +4,7 @@ title: "Operating System Concepts Essentials, 2nd Edition"
 subtitle: Abraham Silberschatz, Peter B. Galvin & Greg Gagne
 date: 2019-08-11 15:46:28 +0000
 categories: book
-read: 35
+read: 95
 image: ../assets/images/osConcepts.jpg
 ---
 
